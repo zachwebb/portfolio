@@ -1,0 +1,40 @@
+{
+	"content": {
+		"GraphicDesign": {
+			"title": "Graphic Design",
+			"description": "Something goes here",
+			"images": [
+				{
+					"title":"",
+					"url":""
+				},
+				{
+					"title":"",
+					"url":""
+				}
+			]
+		},
+		"web": {
+			"title": "Web Design",
+			"description": "Something goes here",
+			"images": [
+				{
+					"title":"",
+					"url":""
+				},
+				{
+					"title":"",
+					"url":""
+				}
+			]
+		},
+		"about": {
+			"title": "About",
+			"description": "Something goes here"
+		},
+		"contact": {
+			"title": "Contact",
+			"description": "Something goes here"
+		}
+	}
+}

@@ -487,8 +487,7 @@ img.ug-sepia-effect{
 }
 
 .ug-gallery-wrapper .ug-textpanel-title{
-	font-size:14px;
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-size:16px;
 	font-weight:bold;
 	color:white;
 	text-align:left;
@@ -496,7 +495,6 @@ img.ug-sepia-effect{
 }
 
 .ug-gallery-wrapper .ug-textpanel-description{
-	font-family: 'Open Sans Condensed', sans-serif;
 	font-size:14px;
 	color:white;
 	text-align:left;
@@ -866,22 +864,15 @@ img.ug-sepia-effect{
 
 .ug-lightbox .ug-textpanel-title,
 .ug-lightbox .ug-textpanel-description{
-	font-size: 13px;
+	font-size: 14px;
 	font-weight: normal;
 	color: #e5e5e5;
 }
 
-.ug-lightbox-compact .ug-textpanel-title{
-	color:#FFFFFF;
-	font-size: 14px;
-	font-weight: bold;
-	font-family: 'Open Sans Condensed', sans-serif;
-}
-
+.ug-lightbox-compact .ug-textpanel-title,
 .ug-lightbox-compact .ug-textpanel-description{
-	color:#FFFFFF;
-	font-size: 13px;
-	font-family: 'Open Sans Condensed', sans-serif;
+	color:#F3F3F3;
+	font-size: 16px;
 }
 
 .------------------CATEGORY_TABS---------------------{}
