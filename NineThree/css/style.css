@@ -39,6 +39,7 @@ p {
     position:fixed;
     top:0px;
     border-bottom: 1px solid #6dcff6;
+    height: 86px;
     /*box-shadow: 0px 5px 10px #6dcff6;*/
 }
 
@@ -61,8 +62,29 @@ p {
 
 #nav {
 	float: right;
+	height: 66px;
+	
 }
 
+#navWrap {
+	position: relative;
+	top:50%;
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%)
+}
+
+#navWrap a{
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #222222;
+	margin-left: 40px;
+}
+
+#navWrap a:hover {
+	color: #666666;
+	border-bottom: 1px solid #666666;
+}
+/*
 #nav ul {
 	font-weight: bold;
 	list-style-type: none;
@@ -85,7 +107,7 @@ p {
 	color: #666666;
 	border-bottom: 1px solid #666666;
 }
-
+*/
 #main-content, a:target {
 	margin-top: 86px;
 }
@@ -96,7 +118,6 @@ p {
 
 .description {
 	padding: 20px 40px;
-	text-align: center;
 }
 
 img.portfolio {
@@ -133,15 +154,32 @@ a:hover img.portfolio {
 	height: 86px;
 }
 
-@media only screen and (max-width: 500px) {
-    #logo a img {
-		width: 200px;
+@media only screen and (max-device-width: 500px) {
+    #nav {
+		float: right;
 	}
 
-	#logo {
-		float: none;
-		margin: 0 auto;
-		text-align: center;
+	#nav ul {
+		font-weight: bold;
+		list-style-type: none;
+		text-transform: uppercase;
+		color: #222222;
+		padding: 20px;
+	}
+
+	#nav ul li {
+		float:none;
+		padding: 0px;
+	}
+
+	#nav ul li a {
+		text-decoration: none;
+		color: #222222;
+	}
+
+	#nav ul li a:hover {
+		color: #666666;
+		border-bottom: 1px solid #666666;
 	}
 
 	img.portfolio {

@@ -1,20 +1,40 @@
-jQuery(document).ready(function(){
+$(function(){
 
-	jQuery("#gallery").unitegallery({
-		grid_space_between_cols:0,
-		grid_space_between_rows:0,
-		tile_enable_border:false,
-		tile_enable_shadow:false,
-		grid_padding:0,
-		tile_width:300,
-		tile_height:300,
+$(document).ready(function(){
+
+	$("#gallery").unitegallery({
+		lightbox_arrows_position: "outside",
+		lightbox_overlay_opacity:.8,
+		lightbox_textpanel_enable_description: true,
 		lightbox_type: "compact",
-		lightbox_arrows_position: "inside",
-		tile_enable_textpanel:true,
-		tile_textpanel_title_text_align: "center",
+		theme_autoplay: true,
+		tile_enable_icons: false,
+		tile_overlay_color: "#ffffff",
+		tiles_justified_row_height: 200,
+		tiles_type:"justified",
+		
+		// gallery_width:"100%",
+		// grid_num_rows:9999,
+		// grid_padding:0,
+		// grid_space_between_cols:0,
+		// grid_space_between_rows:0,
+		// lightbox_arrows_position: "outside",
+		// lightbox_overlay_opacity:.8,
+		// lightbox_type: "compact",
+		// lightbox_textpanel_enable_description: true,
+		// tile_overlay_color: "#ffffff",
+		// tile_enable_border:false,
+		// tile_enable_icons: false,
+		// tile_enable_shadow:false,
+		// tile_height:250,
+		// tile_width:250,
 	});
 	
-	$('.navlink').on('click', function(event) {
+});
+
+
+
+$('.navlink').on('click', function(event) {
 
 	    var target = $( $(this).attr('href') );
 
@@ -26,7 +46,5 @@ jQuery(document).ready(function(){
 	    }
 
 	});
+
 });
-
-
-
