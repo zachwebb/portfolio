@@ -6,10 +6,13 @@
 			"images": [
 				{
 					"title":"",
+					// "gallery":"",
+					"thumb":"",
 					"url":""
 				},
 				{
 					"title":"",
+					"thumb":"",
 					"url":""
 				}
 			]
