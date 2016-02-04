@@ -1,19 +1,20 @@
 {
 	"content": {
-		"GraphicDesign": {
+		"graphicDesign": {
 			"title": "Graphic Design",
 			"description": "Something goes here",
 			"images": [
 				{
-					"title":"",
-					// "gallery":"",
-					"thumb":"",
-					"url":""
+					"title":"Test 1",
+					"thumb":"images/logos/sweet-stache.png",
+					"url":"images/logos/sweet-stache.png",
+					"type":"gallery"
 				},
 				{
-					"title":"",
-					"thumb":"",
-					"url":""
+					"title":"Test 2",
+					"thumb":"images/image.png",
+					"url":"https://www.youtube.com/embed/P-LvHlr6foE",
+					"type":"youtube"
 				}
 			]
 		},
@@ -23,11 +24,15 @@
 			"images": [
 				{
 					"title":"",
-					"url":""
+					"thumb":"",
+					"url":"",
+					"type":""
 				},
 				{
 					"title":"",
-					"url":""
+					"thumb":"",
+					"url":"",
+					"type":""
 				}
 			]
 		},
