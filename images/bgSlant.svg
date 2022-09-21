@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290.1" height="254.46" viewBox="0 0 290.1 254.46">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6dcff6;
+        opacity: 0.2;
+      }
+    </style>
+  </defs>
+  <title>bgSlant</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <rect class="cls-1" x="-48.25" y="124.23" width="325" height="6" transform="translate(-56.6 134.35) rotate(-50.46)"/>
+        <rect class="cls-1" x="-39.47" y="126.73" width="325" height="1" transform="translate(-53.41 141.11) rotate(-50.46)"/>
+        <rect class="cls-1" x="-27.16" y="126.73" width="325" height="1" transform="translate(-48.93 150.61) rotate(-50.46)"/>
+        <rect class="cls-1" x="23.77" y="126.73" width="325" height="1" transform="translate(-30.43 189.88) rotate(-50.46)"/>
+        <rect class="cls-1" x="7.35" y="125.23" width="325" height="4" transform="translate(-36.39 177.23) rotate(-50.46)"/>
+        <rect class="cls-1" x="-21.83" y="126.23" width="325" height="2" transform="translate(-47 154.72) rotate(-50.46)"/>
+        <rect class="cls-1" x="-58.28" y="126.23" width="325" height="2" transform="translate(-60.25 126.61) rotate(-50.46)"/>
+      </g>
+    </g>
+  </g>
+</svg>
