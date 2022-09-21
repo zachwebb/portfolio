@@ -1,0 +1,188 @@
+{
+	"portfolio": [	
+	{
+		"url":"images/portfolio/ndtc_site.jpg",
+		"thumb":"images/portfolio/ndtc_site.jpg",
+		"category":"Web Development",
+		"title":"National Democratic Training Committee",
+		"link": "https://traindemocrats.org"
+	},
+	{
+		"url":"images/portfolio/KPSite.jpg",
+		"thumb":"images/thumbs/KPsite.jpg",
+		"category":"Web Development",
+		"title":"Keilen Photography",
+		"link": "https://keilenphotography.com/"
+	},
+	{
+	   "url":"images/portfolio/fwa.jpg",
+	   "thumb":"images/thumbs/fwa.jpg",
+	   "category":"Web Development",
+	   "title":"Anthem Fraud Waste and Abuse",
+	   "link": "http://www.ninethreestudios.com/portfolio/fwa"
+	 },
+	 {
+	   "url":"images/portfolio/SweetStache.jpg",
+	   "thumb":"images/thumbs/SweetStache.jpg",
+	   "category":"Logos & Branding",
+	   "title":"Sweet Stache Bakery"
+	 },
+	 {
+	   "url":"images/portfolio/textMap.jpg",
+	   "thumb":"images/thumbs/TextMap.jpg",
+	   "category":"Print Design",
+	   "title":"Text Map Art Print"
+	 },
+	 {
+	   "url":"images/portfolio/theStrangePoster.jpg",
+	   "thumb":"images/thumbs/theStrangePoster.jpg",
+	   "category":"Theatre Print",
+	   "title":"The Strange Poster"
+	 },
+	 {
+	   "url":"images/portfolio/actwise.jpg",
+	   "thumb":"images/thumbs/actwise.jpg",
+	   "category":"Web Design and Development",
+	   "title":"Anthem webinar landing page"
+	 },
+	 {
+	   "url":"images/portfolio/AnimalPrints2.jpg",
+	   "thumb":"images/thumbs/AnimalPrints2.jpg",
+	   "category":"Print Design",
+	   "title":"Animal Art Prints"
+	 },
+	 {
+	   "url":"images/portfolio/fitbit_booklet.jpg",
+	   "thumb":"images/thumbs/fitit_booklet.jpg",
+	   "category":"Print Design",
+	   "title":"FitBit Booklet"
+	 },
+	 {
+	   "url":"images/portfolio/matawanCampaign.jpg",
+	   "thumb":"images/thumbs/matawanCampaign.jpg",
+	   "category":"Theatre Print",
+	   "title":"Matawan Print Campaign"
+	 },
+	 {
+	   "url":"images/portfolio/KeilenPhotography.jpg",
+	   "thumb":"images/thumbs/KeilenPhotography.jpg",
+	   "category":"Logos & Branding",
+	   "title":"Keilen Photography Logo"
+	 },
+	 {
+	   "url":"images/portfolio/DinoPrint.jpg",
+	   "thumb":"images/thumbs/DinoPrint.jpg",
+	   "category":"Print Design",
+	   "title":"Partysaurus Art Print"
+	 },
+	 {
+	   "url":"images/portfolio/dnd.jpg",
+	   "thumb":"images/thumbs/dnd.jpg",
+	   "category":"Web Development",
+	   "title":"Dungeons and Dragons quick reference",
+	   "link": "http://www.ninethreestudios.com/portfolio/dnd/bestiary.html"
+	 },
+	 {
+		"url":"images/portfolio/RoleBot_Full.png",
+		"thumb":"images/thumbs/RoleBot_Thumb.png",
+		"category":"Logos & Branding",
+		"title":"RoleBot Logo"
+	},
+	 {
+	   "url":"images/portfolio/GEBooklet.jpg",
+	   "thumb":"images/thumbs/GEBooklet.jpg",
+	   "category":"Print Design",
+	   "title":"Garage Envy Catalog"
+	 },
+	 {
+	   "url":"images/portfolio/emailguide.jpg",
+	   "thumb":"images/thumbs/emailguide.jpg",
+	   "category":"Web Design and Development",
+	   "title":"Code resources for Anthem emails",
+	   "link": "http://www.ninethreestudios.com/portfolio/emailguide"
+	 },
+	 {
+	   "url":"images/portfolio/OctopusPrint.jpg",
+	   "thumb":"images/thumbs/octopusPrint.jpg",
+	   "category":"Print Design",
+	   "title":"Octopus Art Print"
+	 },
+	 {
+	   "url":"images/portfolio/deerposter.jpg",
+	   "thumb":"images/thumbs/thedeer_poster.jpg",
+	   "category":"Theatre Print",
+	   "title":"The Deer Poster"
+	 },
+	 {
+	   "url":"images/portfolio/ExerciseLA.jpg",
+	   "thumb":"images/thumbs/ExerciseLA.jpg",
+	   "category":"Print Design",
+	   "title":"Stickers for Exercise LA"
+	 },
+	 {
+	   "url":"images/portfolio/wgs.jpg",
+	   "thumb":"images/thumbs/wgs.jpg",
+	   "category":"Web Development",
+	   "title":"Empire BCBS WGS site",
+	   "link": "http://www.ninethreestudios.com/portfolio/wgs/ebs"
+	 },
+	 {
+	   "url":"images/portfolio/PeakBooklet.jpg",
+	   "thumb":"images/thumbs/PeakBooklet.jpg",
+	   "category":"Print Design",
+	   "title":"Peak 1031 Exchange Booklet"
+	 },
+	 {
+	   "url":"images/portfolio/facereplace.jpg",
+	   "thumb":"images/thumbs/facereplace.jpg",
+	   "category":"Print Design",
+	   "title":"Replace Face Prints"
+	 },
+	 {
+	   "url":"images/portfolio/homeBeforeDarkPoster.jpg",
+	   "thumb":"images/thumbs/homeBeforeDarkPoster.jpg",
+	   "category":"Theatre Print",
+	   "title":"Home Before Dark Poster"
+	 },
+	 {
+	   "url":"images/portfolio/gfgmsite.jpg",
+	   "thumb":"images/thumbs/gfgmsite.jpg",
+	   "category":"UX & Web Design",
+	   "title":"Grandfathered Grandmothered Site"
+	 },
+	 {
+	   "url":"images/portfolio/SDMSsite.jpg",
+	   "thumb":"images/thumbs/SDMSsite.jpg",
+	   "category":"UX & Web Design",
+	   "title":"Shared Decision Making Site"
+	 },
+	 {
+	   "url":"images/portfolio/EasyRenewsite.jpg",
+	   "thumb":"images/thumbs/EasyRenewsite.jpg",
+	   "category":"Web Development",
+	   "title":"Anthem Easy Renew Site",
+	   "omit": true
+	 },
+	 {
+	   "url":"images/portfolio/KOCsite.jpg",
+	   "thumb":"images/thumbs/KOCsite.jpg",
+	   "category":"Web Design and Development",
+	   "title":"Site for actor/director Kevin O'Callaghan",
+	   "omit": true
+	 },
+	 {
+	   "url":"images/portfolio/ReplaceFace.jpg",
+	   "thumb":"images/thumbs/ReplaceFace.jpg",
+	   "category":"Print Design",
+	   "title":"Replace Face Prints",
+	   "omit": true
+	 },
+	 {
+	   "url":"images/portfolio/MadDogsite.jpg",
+	   "thumb":"images/thumbs/MadDogsite.jpg",
+	   "category":"Web Design and Development",
+	   "title":"Site for Mad Dog Theatre Company",
+	   "omit": true
+	 }
+	]
+}

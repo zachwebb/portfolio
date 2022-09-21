@@ -1,0 +1,51 @@
+{{#unless omit}}
+{{!-- <div class="item group">
+
+    <img src="{{thumb}}" class="itemThumb" alt="{{title}}">
+    <div class="portfolio-box-caption">
+        <div class="portfolio-box-caption-content">
+            <div class="project-category text-faded">
+                <h2>{{category}}</h2>
+            </div>
+            <div class="project-name">
+                <h3>{{title}}</h3>
+                
+                <a href="{{url}}" class="swipebox portfolio-box" data-caption="{{title}}" data-gallery="{{category}}" {{#if link}}data-link="{{link}}"{{/if}}>
+                <button>More</button>
+                </a>
+            </div>
+        </div>
+    </div>
+
+</div> --}}
+
+      <li class="hex">
+        <div class="hexIn">
+          <a href="{{url}}" class="hexLink swipebox portfolio-box" data-caption="{{title}}" data-gallery="{{category}}" {{#if link}}data-link="{{link}}"{{/if}}>
+            <img src="{{thumb}}" alt="{{title}}" />
+            <div class="hexWrap">
+                <h1>{{category}}</h1>
+                <p>{{title}}</p>
+            </div>
+          </a>
+        </div>
+      </li>
+{{/unless}}
+
+
+{{!-- <div class="stretch">
+<a href="{{url}}" class="swipebox portfolio-box" data-caption="{{title}}" data-gallery="{{category}}" {{#if link}}link="{{link}}"{{/if}}>
+    <img src="{{url}}" class="itemThumb" alt="{{title}}">
+    <div class="portfolio-box-caption">
+        <div class="portfolio-box-caption-content">
+            <div class="project-category text-faded">
+                {{category}}
+            </div>
+            <div class="project-name">
+                {{title}}
+            </div>
+        </div>
+    </div>
+</a>
+</div> --}}
+{{!-- <div class=""><img class="itemThumb" src="{{thumb}}"/></div> --}}
